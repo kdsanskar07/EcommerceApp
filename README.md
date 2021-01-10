@@ -1,7 +1,7 @@
 # EcommerceApp
 
-<img src="https://firebasestorage.googleapis.com/v0/b/ecommerce-project-34876.appspot.com/o/undraw_shopping_app_flsj.png?alt=media&token=2784737e-bb0c-4007-9c0f-d7a18567f4d9" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
+<img src=https://firebasestorage.googleapis.com/v0/b/ecommerce-project-34876.appspot.com/o/OQECWQ1.jpg?alt=media&token=7fae9312-343b-40f0-94f0-4884c5feda83" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="200" height="178">
 
 Size Limit is a performance budget tool for JavaScript. It checks every commit
 on CI, calculates the real cost of your JS for end-users and throws an error
