@@ -3,20 +3,16 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/ecommerce-project-34876.appspot.com/o/Untitled-1.png?alt=media&token=bf0a66e3-8422-4275-b9db-626001c50dc1" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="240" height="220">
 
-Size Limit is a performance budget tool for JavaScript. It checks every commit
-on CI, calculates the real cost of your JS for end-users and throws an error
-if the cost exceeds the limit.
+Our app is a hyperlocal ecommerce app where a user can purchase item from different local shops in their areas.
 
-* **ES modules** and **tree-shaking** support.
-* Add Size Limit to **Travis CI**, **Circle CI**, **GitHub Actions**
-  or another CI system to know if a pull request adds a massive dependency.
-* **Modular** to fit different use cases: big JS applications
-  that use their own bundler or small npm libraries with many files.
-* Can calculate **the time** it would take a browser
-  to download and **execute** your JS. Time is a much more accurate
-  and understandable metric compared to the size in bytes.
-* Calculations include **all dependencies and polyfills**
-  used in your JS.
+**Tech Stack**
+
+* Flutter
+* Express Framework on Node.js
+* MySQL
+* Firebase Cloud Storage
+* Adobe Illustrator
+
 
 <p align="center">
   <img src="./img/example.png" alt="Size Limit CLI" width="738">
