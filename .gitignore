@@ -1,0 +1,52 @@
+/EcommerceAppBackend/node_modules
+/EcommerceAppBackend/.env
+/EcommerceAppBackend/id_rsa_priv.pem
+/EcommerceAppBackend/id_rsa_pub.pem
+
+
+# Miscellaneous
+/EcommerceAppFrontend/*.class
+/EcommerceAppFrontend/*.log
+/EcommerceAppFrontend/*.pyc
+/EcommerceAppFrontend/*.swp
+/EcommerceAppFrontend/.DS_Store
+/EcommerceAppFrontend/.atom/
+/EcommerceAppFrontend/.buildlog/
+/EcommerceAppFrontend/.history
+/EcommerceAppFrontend/.svn/
+
+# IntelliJ related
+/EcommerceAppFrontend/*.iml
+/EcommerceAppFrontend/*.ipr
+/EcommerceAppFrontend/*.iws
+/EcommerceAppFrontend/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+/EcommerceAppFrontend/**/doc/api/
+/EcommerceAppFrontend/**/ios/Flutter/.last_build_id
+/EcommerceAppFrontend/.dart_tool/
+/EcommerceAppFrontend/.flutter-plugins
+/EcommerceAppFrontend/.flutter-plugins-dependencies
+/EcommerceAppFrontend/.packages
+/EcommerceAppFrontend/.pub-cache/
+/EcommerceAppFrontend/.pub/
+/EcommerceAppFrontend/build/
+
+# Web related
+/EcommerceAppFrontend/lib/generated_plugin_registrant.dart
+
+# Symbolication related
+/EcommerceAppFrontend/app.*.symbols
+
+# Obfuscation related
+/EcommerceAppFrontend/app.*.map.json
+
+# Exceptions to above rules.
+/EcommerceAppFrontend/!/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+
+
