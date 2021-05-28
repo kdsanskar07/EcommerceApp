@@ -126,9 +126,9 @@ helper :-
             email VARCHAR(40),
             name VARCHAR(40),
             otp VARCHAR(10),
-            isverifed INT
+            isverifed INT,
             CONSTRAINT pk_categorystore PRIMARY KEY(storeid , email),
-            CONSTRAINT fk_store_product FOREIGN KEY(storeid) REFERENCES store(id) ON DELETE CASCADE ON UPDATE CASCADE
+            CONSTRAINT fk_store_helper FOREIGN KEY(storeid) REFERENCES store(id) ON DELETE CASCADE ON UPDATE CASCADE
             CONSTRAINT fk_store_product FOREIGN KEY(email) REFERENCES user(email) ON DELETE CASCADE ON UPDATE CASCADE
        );"
 
